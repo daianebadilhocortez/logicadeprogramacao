@@ -1,6 +1,6 @@
 //Faça um programa que leia um valor em minutos e converta para horas e minutos;
 
-let minutos = Number(prompt("Quantos minutos você demora para ir ao Trabalho"));
+let minutos = Number(prompt("Quantos minutos você demora para ir ao Trabalho?"));
 
 
 
